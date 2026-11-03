@@ -1,0 +1,2 @@
+# AI-Powered-Pothole-Detection-Smart-Road-Monitoring-System
+An AI-powered Pothole Detection and Smart Road Monitoring System using YOLOv8, Python, Streamlit, and SQLite. The system detects potholes from uploaded road images, identifies severity levels (High, Medium, Low), stores detection history, and provides an interactive dashboard for monitoring road conditions and supporting road maintenance.
